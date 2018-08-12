@@ -1,0 +1,20 @@
+{
+  "name": "friends",
+  "authors": [
+    "Omar Davila <morrison.x@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jasmine-jquery": "^2.1.1"
+  }
+}
